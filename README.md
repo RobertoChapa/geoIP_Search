@@ -1,5 +1,5 @@
 # geoIP_Search
-Find city and meta data from cpac file. Analyze network packages.
+Find city and meta data from pcap file. Analyze network packages.
 
 Source:
 Violent Python
